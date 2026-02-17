@@ -1,0 +1,16 @@
+import os
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Folder check + create
+if not os.path.exists("visuals"):
+    os.makedirs("visuals")
+
+# Graph example
+sns.countplot(x='Survived', data=data)
+plt.title('Survival Count')
+plt.savefig('visuals/survival_count.png') 
+plt.savefig('visuals/survival_by_sex.png')
+plt.savefig('visuals/survival_by_pclass.png')
+plt.savefig('visuals/age_distribution.png')
+plt.show()
