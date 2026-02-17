@@ -50,5 +50,5 @@
 **Age Distribution**
 
 
-![Age Distribution]<img width="640" height="480" alt="Figure_4" src="https://github.com/user-attachments/assets/e949ad4b-6318-44ef-906a-6f47551ccc61" />
+<img width="640" height="480" alt="Figure_4" src="https://github.com/user-attachments/assets/e949ad4b-6318-44ef-906a-6f47551ccc61" />
 
